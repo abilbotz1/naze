@@ -19,8 +19,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282146218274']
-global.ownernomer = "6282146218274"
+global.owner = ['6287868860325']
+global.ownernomer = "6287868860325"
 global.premium = ['6282146218274']
 global.packname = 'Sticker  Khurushi'
 global.author = 'Riell'
